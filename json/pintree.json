@@ -165,20 +165,6 @@
           },
           {
             "type": "folder",
-            "addDate": 1717749647505,
-            "title": "7-运维",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1717749617238,
-                "title": "yii_orc_002 宝塔Linux面板",
-                "icon": "https://logo.clearbit.com/140.245.17.70",
-                "url": "https://140.245.17.70:22743/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
             "addDate": 1719994493447,
             "title": "8-旅游",
             "children": [
