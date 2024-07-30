@@ -4416,27 +4416,6 @@
             },
             {
                 "type": "folder",
-                "addDate": 1619356047972,
-                "title": "智云威客",
-                "children": [
-                    {
-                        "type": "link",
-                        "addDate": 1584452746732,
-                        "title": "kppw · 行云",
-                        "icon": "https://logo.clearbit.com/codeup.teambition.com",
-                        "url": "https://codeup.teambition.com/zywk/kppw"
-                    },
-                    {
-                        "type": "link",
-                        "addDate": 1584452773792,
-                        "title": "智云威客二期需求 · Teambition",
-                        "icon": "https://logo.clearbit.com/www.teambition.com",
-                        "url": "https://www.teambition.com/project/5e566a10b958c200231b0f80/tasks/scrum/5e566a11b958c200231b0f92"
-                    }
-                ]
-            },
-            {
-                "type": "folder",
                 "addDate": 1619356047971,
                 "title": "自媒体项目",
                 "children": [
